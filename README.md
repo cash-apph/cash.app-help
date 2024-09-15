@@ -1,0 +1,883 @@
+
+<!DOCTYPE html><html lang="en-IN"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Cash App Transfer</title><meta name="author" content="Cash App Transfer"/><meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 8.0.0000"/><link rel="manifest" href="/manifest.webmanifest"/><link rel="apple-touch-icon" sizes="57x57" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"/><link rel="apple-touch-icon" sizes="60x60" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:60,h:60,m"/><link rel="apple-touch-icon" sizes="72x72" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:72,h:72,m"/><link rel="apple-touch-icon" sizes="114x114" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:114,h:114,m"/><link rel="apple-touch-icon" sizes="120x120" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:120,h:120,m"/><link rel="apple-touch-icon" sizes="144x144" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:144,h:144,m"/><link rel="apple-touch-icon" sizes="152x152" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:152,h:152,m"/><link rel="apple-touch-icon" sizes="180x180" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m"/><meta property="og:url" content="https://cashapptransfer.godaddysites.com/"/>
+<meta property="og:site_name" content="Cash App Transfer"/>
+<meta property="og:title" content="Cash App Transfer"/>
+<meta property="og:description" content="Send money online with Cash App Transfer, the best way to transfer money internationally."/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://img1.wsimg.com/isteam/stock/3270"/>
+<meta property="og:locale" content="en_IN"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Cash App Transfer"/>
+<meta name="twitter:description" content="Fast and Secure Money Transfers"/>
+<meta name="twitter:image" content="https://img1.wsimg.com/isteam/stock/3270"/>
+<meta name="twitter:image:alt" content="Cash App Transfer"/>
+<meta name="theme-color" content="#f1cebc"/><style data-inline-fonts>/* cyrillic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0330, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2034-2037, U+2057, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2102, U+210A-210E, U+2110-2112, U+2115, U+2119-211D, U+2124, U+2128, U+212C-212D, U+212F-2131, U+2133-2138, U+213C-2140, U+2145-2149, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B6, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8B1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA88, U+1FA90-1FABD, U+1FABF-1FAC5, U+1FACE-1FADB, U+1FAE0-1FAE8, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://img1.wsimg.com/gfonts/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style><style>.x{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);margin:0;box-sizing:border-box}.x *,.x :after,.x :before{box-sizing:inherit}.x-el a[href^="mailto:"]:not(.x-el),.x-el a[href^="tel:"]:not(.x-el){color:inherit;font-size:inherit;text-decoration:inherit}.x-el-article,.x-el-aside,.x-el-details,.x-el-figcaption,.x-el-figure,.x-el-footer,.x-el-header,.x-el-hgroup,.x-el-main,.x-el-menu,.x-el-nav,.x-el-section,.x-el-summary{display:block}.x-el-audio,.x-el-canvas,.x-el-progress,.x-el-video{display:inline-block;vertical-align:baseline}.x-el-audio:not([controls]){display:none;height:0}.x-el-template{display:none}.x-el-a{background-color:transparent;color:inherit}.x-el-a:active,.x-el-a:hover{outline:0}.x-el-abbr[title]{border-bottom:1px dotted}.x-el-b,.x-el-strong{font-weight:700}.x-el-dfn{font-style:italic}.x-el-mark{background:#ff0;color:#000}.x-el-small{font-size:80%}.x-el-sub,.x-el-sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}.x-el-sup{top:-.5em}.x-el-sub{bottom:-.25em}.x-el-img{vertical-align:middle;border:0}.x-el-svg:not(:root){overflow:hidden}.x-el-figure{margin:0}.x-el-hr{box-sizing:content-box;height:0}.x-el-pre{overflow:auto}.x-el-code,.x-el-kbd,.x-el-pre,.x-el-samp{font-family:monospace,monospace;font-size:1em}.x-el-button,.x-el-input,.x-el-optgroup,.x-el-select,.x-el-textarea{color:inherit;font:inherit;margin:0}.x-el-button{overflow:visible}.x-el-button,.x-el-select{text-transform:none}.x-el-button,.x-el-input[type=button],.x-el-input[type=reset],.x-el-input[type=submit]{-webkit-appearance:button;cursor:pointer}.x-el-button[disabled],.x-el-input[disabled]{cursor:default}.x-el-button::-moz-focus-inner,.x-el-input::-moz-focus-inner{border:0;padding:0}.x-el-input{line-height:normal}.x-el-input[type=checkbox],.x-el-input[type=radio]{box-sizing:border-box;padding:0}.x-el-input[type=number]::-webkit-inner-spin-button,.x-el-input[type=number]::-webkit-outer-spin-button{height:auto}.x-el-input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}.x-el-input[type=search]::-webkit-search-cancel-button,.x-el-input[type=search]::-webkit-search-decoration{-webkit-appearance:none}.x-el-textarea{border:0}.x-el-fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}.x-el-legend{border:0;padding:0}.x-el-textarea{overflow:auto}.x-el-optgroup{font-weight:700}.x-el-table{border-collapse:collapse;border-spacing:0}.x-el-td,.x-el-th{padding:0}.x{-webkit-font-smoothing:antialiased}.x-el-hr{border:0}.x-el-fieldset,.x-el-input,.x-el-select,.x-el-textarea{margin-top:0;margin-bottom:0}.x-el-fieldset,.x-el-input[type=email],.x-el-input[type=text],.x-el-textarea{width:100%}.x-el-input,.x-el-label{vertical-align:middle}.x-el-input{border-style:none;padding:.5em}.x-el-select:not([multiple]){vertical-align:middle}.x-el-textarea{line-height:1.75;padding:.5em}.x-el.d-none{display:none!important}.sideline-footer{margin-top:auto}.disable-scroll{touch-action:none;overflow:hidden;position:fixed;max-width:100vw}@keyframes loaderscale{0%{transform:scale(1);opacity:1}45%{transform:scale(.1);opacity:.7}80%{transform:scale(1);opacity:1}}.x-loader svg{display:inline-block}.x-loader svg:first-child{animation:loaderscale .75s cubic-bezier(.2,.68,.18,1.08) -.24s infinite}.x-loader svg:nth-child(2){animation:loaderscale .75s cubic-bezier(.2,.68,.18,1.08) -.12s infinite}.x-loader svg:nth-child(3){animation:loaderscale .75s cubic-bezier(.2,.68,.18,1.08) 0s infinite}.x-icon>svg{transition:transform .33s ease-in-out}.x-icon>svg.rotate-90{transform:rotate(-90deg)}.x-icon>svg.rotate90{transform:rotate(90deg)}.x-icon>svg.rotate-180{transform:rotate(-180deg)}.x-icon>svg.rotate180{transform:rotate(180deg)}.x-rt ol,.x-rt ul{text-align:left}.x-rt p{margin:0}.mte-inline-block{display:inline-block}@media only screen and (min-device-width:1025px){:root select,_::-webkit-full-page-media,_:future{font-family:sans-serif!important}}
+
+</style>
+<style>/*
+Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+*/
+
+/*
+Digitized data copyright 2010-2011, Google Corporation.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+</style>
+<style data-glamor="cxs-default-sheet">.x .c1-1{letter-spacing:normal}.x .c1-2{text-transform:none}.x .c1-3{background-color:rgb(255, 255, 255)}.x .c1-4{width:100%}.x .c1-5 > div{position:relative}.x .c1-6 > div{overflow:hidden}.x .c1-7 > div{margin-top:auto}.x .c1-8 > div{margin-right:auto}.x .c1-9 > div{margin-bottom:auto}.x .c1-a > div{margin-left:auto}.x .c1-b{font-family:'Open Sans', arial, sans-serif}.x .c1-c{font-size:16px}.x .c1-h{padding-top:40px}.x .c1-i{padding-bottom:40px}.x .c1-j{padding:0 !important}.x .c1-k:before{content:""}.x .c1-l:before{display:table}.x .c1-m:before{clear:both}.x .c1-n:after{content:""}.x .c1-o:after{display:table}.x .c1-p:after{clear:both}.x .c1-s{position:relative}.x .c1-t{margin-bottom:24px}.x .c1-v{margin-left:auto}.x .c1-w{margin-right:auto}.x .c1-x{padding-left:24px}.x .c1-y{padding-right:24px}.x .c1-z{max-width:100%}.x .c1-14{display:none}.x .c1-16{padding-top:32px}.x .c1-17{padding-bottom:32px}.x .c1-18{flex:1}.x .c1-19{display:flex}.x .c1-1a{justify-content:space-between}.x .c1-1b{align-items:center}.x .c1-1c{padding-top:24px}.x .c1-1d{justify-content:flex-start}.x .c1-1e{width:30%}.x .c1-1f{justify-content:center}.x .c1-1g{text-align:center}.x .c1-1h{width:40%}.x .c1-1i{display:inline-block}.x .c1-1j{font-family:'Playfair Display', Georgia, serif}.x .c1-1o{letter-spacing:inherit}.x .c1-1p{text-transform:inherit}.x .c1-1q{text-decoration:none}.x .c1-1r{word-wrap:break-word}.x .c1-1s{overflow-wrap:break-word}.x .c1-1t{display:inline}.x .c1-1u{cursor:pointer}.x .c1-1v{border-top:0px}.x .c1-1w{border-right:0px}.x .c1-1x{border-bottom:0px}.x .c1-1y{border-left:0px}.x .c1-1z{color:rgb(138, 106, 90)}.x .c1-20{font-weight:inherit}.x .c1-21:hover{color:rgb(87, 57, 35)}.x .c1-22:active{color:rgb(59, 37, 22)}.x .c1-23{letter-spacing:0.031em}.x .c1-24{line-height:1}.x .c1-25{margin-top:0}.x .c1-26{margin-bottom:0}.x .c1-27{padding-top:8px}.x .c1-28{padding-bottom:8px}.x .c1-29{padding-left:16px}.x .c1-2a{padding-right:16px}.x .c1-2b{width:fit-content}.x .c1-2c{border-style:solid}.x .c1-2d{border-color:rgb(21, 21, 21)}.x .c1-2e{border-top-width:1px}.x .c1-2f{border-right-width:1px}.x .c1-2g{border-bottom-width:1px}.x .c1-2h{border-left-width:1px}.x .c1-2i{color:rgb(21, 21, 21)}.x .c1-2j{font-size:28px}.x .c1-2k{font-weight:400}.x .c1-2q{word-wrap:normal !important}.x .c1-2r{overflow-wrap:normal !important}.x .c1-2s{width:auto}.x .c1-2t{visibility:hidden}.x .c1-2u{position:absolute}.x .c1-2v{overflow:visible}.x .c1-2w{left:0px}.x .c1-2x{font-size:32px}.x .c1-32{font-size:22px}.x .c1-37{justify-content:flex-end}.x .c1-38{padding-bottom:24px}.x .c1-3a{width:0px}.x .c1-3b{padding-top:0px}.x .c1-3c{padding-right:0px}.x .c1-3d{padding-bottom:0px}.x .c1-3e{padding-left:0px}.x .c1-3f{[object -object]:0px}.x .c1-3j{overflow:hidden}.x .c1-3l{margin-right:0px}.x .c1-3m{margin-left:0px}.x .c1-3n{height:100%}.x .c1-3o{border-width:0 !important}.x .c1-3p{vertical-align:middle}.x .c1-3q{aspect-ratio:auto}.x .c1-3r{border-radius:0px !important}.x .c1-3v{flex-direction:column}.x .c1-3w{flex-grow:1}.x .c1-3x{padding-top:56px}.x .c1-3y{padding-bottom:56px}.x .c1-3z{background-color:rgb(251, 242, 238)}.x .c1-4a{max-width:750px}.x .c1-4b{letter-spacing:0.125em}.x .c1-4c{text-transform:uppercase}.x .c1-4d{line-height:1.25}.x .c1-4e{margin-bottom:16px}.x .c1-4f{text-align:inherit}.x .c1-4g{width:inherit}.x .c1-4h{display:block}.x .c1-4i{line-height:1.2}.x .c1-4j{letter-spacing:0.023em}.x .c1-4k{white-space:pre-line}.x .c1-4l{line-height:1.5}.x .c1-4m > p{margin-top:0}.x .c1-4n > p{margin-right:0}.x .c1-4o > p{margin-bottom:0}.x .c1-4p > p{margin-left:0}.x .c1-4q{color:rgb(87, 87, 87)}.x .c1-4r{font-size:inherit !important}.x .c1-4s{color:inherit}.x .c1-4t{font-weight:700}.x .c1-4u{line-height:inherit}.x .c1-4v{font-style:italic}.x .c1-4w{text-decoration:line-through}.x .c1-4x{text-decoration:underline}.x .c1-4y{flex-wrap:wrap}.x .c1-4z{column-gap:24px}.x .c1-50{row-gap:24px}.x .c1-51{margin-top:16px}.x .c1-53{letter-spacing:0.214em}.x .c1-54{transition:all 0.3s}.x .c1-55{border-style:none}.x .c1-56{display:inline-flex}.x .c1-57{padding-left:32px}.x .c1-58{padding-right:32px}.x .c1-59{min-height:56px}.x .c1-5a{border-radius:0px}.x .c1-5b{color:rgb(255, 255, 255)}.x .c1-5c{background-color:rgb(0, 0, 0)}.x .c1-5d{text-shadow:none}.x .c1-5e{font-size:14px}.x .c1-5f:hover{background-color:rgb(31, 31, 31)}.x .c1-5m{line-height:1.4}.x .c1-5n{text-align:left}.x .c1-5o{color:rgb(145, 111, 93)}.x .c1-5q{font-size:unset}.x .c1-5r{font-family:unset}.x .c1-5s{letter-spacing:unset}.x .c1-5t{text-transform:unset}.x .c1-5u{box-sizing:border-box}.x .c1-5v{flex-direction:row}.x .c1-5w{margin-right:-12px}.x .c1-5x{margin-bottom:-24px}.x .c1-5y{margin-left:-12px}.x .c1-63{flex-shrink:1}.x .c1-64{flex-basis:100%}.x .c1-65{padding-right:12px}.x .c1-66{padding-bottom:48px}.x .c1-67{padding-left:12px}.x .c1-6d{align-self:flex-start}.x .c1-6i{aspect-ratio:2 / 1}.x .c1-6j{order:-1}.x .c1-6k{z-index:1}.x .c1-6m > *{max-width:100%}.x .c1-6n > :nth-child(n){margin-bottom:24px}.x .c1-6o  > :last-child{margin-bottom:0 !important}.x .c1-6r{letter-spacing:0.045em}.x .c1-6s{color:rgb(27, 27, 27)}.x .c1-6t > p > ol{text-align:left}.x .c1-6u > p > ol{display:block}.x .c1-6v > p > ol{padding-left:1.3em}.x .c1-6w > p > ol{margin-left:16px}.x .c1-6x > p > ol{margin-right:16px}.x .c1-6y > p > ol{margin-top:auto}.x .c1-6z > p > ol{margin-bottom:auto}.x .c1-70 > p > ul{text-align:left}.x .c1-71 > p > ul{display:block}.x .c1-72 > p > ul{padding-left:1.3em}.x .c1-73 > p > ul{margin-left:16px}.x .c1-74 > p > ul{margin-right:16px}.x .c1-75 > p > ul{margin-top:auto}.x .c1-76 > p > ul{margin-bottom:auto}.x .c1-77 > ul{text-align:left}.x .c1-78 > ul{display:block}.x .c1-79 > ul{padding-left:1.3em}.x .c1-7a > ul{margin-left:16px}.x .c1-7b > ul{margin-right:16px}.x .c1-7c > ul{margin-top:auto}.x .c1-7d > ul{margin-bottom:auto}.x .c1-7e > ol{text-align:left}.x .c1-7f > ol{display:block}.x .c1-7g > ol{padding-left:1.3em}.x .c1-7h > ol{margin-left:16px}.x .c1-7i > ol{margin-right:16px}.x .c1-7j > ol{margin-top:auto}.x .c1-7k > ol{margin-bottom:auto}.x .c1-7l{color:rgb(94, 94, 94)}.x .c1-7p{min-height:none}.x .c1-7q{margin-left:-4px}.x .c1-7r{margin-right:-4px}.x .c1-7s{width:calc(100% - 0.5px) !important}.x .c1-7t{width:50%}.x .c1-7u{padding-top:4px}.x .c1-7v{padding-right:4px}.x .c1-7w{padding-bottom:4px}.x .c1-7x{padding-left:4px}.x .c1-7z{height:auto}.x .c1-80{opacity:0}.x .c1-81{transition:opacity 1s}.x .c1-82{flex-basis:0%}.x .c1-8a:hover{background-color:rgb(38, 38, 38)}.x .c1-8d{margin-bottom:32px}.x .c1-8e > :nth-child(n){margin-bottom:32px}.x .c1-8f{align-items:flex-start}.x .c1-8g{border-bottom-width:0}.x .c1-8h{margin-bottom:40px}.x .c1-8i > :last-child{margin-bottom:0}.x .c1-8j{white-space:nowrap}.x .c1-8k:hover{color:rgb(96, 63, 40)}.x .c1-8l:active{color:rgb(67, 43, 26)}.x .c1-8m{margin-top:4px}.x .c1-8n{transition:transform .33s ease-in-out}.x .c1-8o{transform:rotate(0deg)}.x .c1-8p{left:4px}.x .c1-8q{margin-top:40px}.x .c1-8r{background-color:transparent}.x .c1-8s{border-color:rgb(226, 226, 226)}.x .c1-8t{border-top-width:0px}.x .c1-8u{border-right-width:0px}.x .c1-8v{border-left-width:0px}.x .c1-8w{padding-top:23px}.x .c1-8x{padding-left:8px}.x .c1-8y{padding-right:8px}.x .c1-8z::placeholder{color:inherit}.x .c1-90:focus{outline:none}.x .c1-91:focus{box-shadow:inset 0 0 0 1px currentColor}.x .c1-92:focus + label{font-size:12px}.x .c1-93:focus + label{top:8px}.x .c1-94:focus + label{color:rgb(145, 111, 93)}.x .c1-95:not([value=""]) + label{font-size:12px}.x .c1-96:not([value=""]) + label{top:8px}.x .c1-97:not([value=""]) + label{color:rgb(145, 111, 93)}.x .c1-98::-webkit-input-placeholder{color:inherit}.x .c1-99{top:30%}.x .c1-9a{left:8px}.x .c1-9b{transition:all .15s ease}.x .c1-9c{pointer-events:none}.x .c1-9d{border-top-width:1px}.x .c1-9e{border-right-width:1px}.x .c1-9f{border-left-width:1px}.x .c1-9g{padding-top:16px}.x .c1-9h{padding-bottom:16px}.x .c1-9i{border-radius:3px}.x .c1-9j{resize:vertical}.x .c1-9k{-webkit-appearance:none !important}.x .c1-9l > :nth-child(2){margin-left:.25em}.x .c1-9m{color:rgb(89, 89, 89)}.x .c1-9n{font-size:12px}.x .c1-9s:hover{cursor:pointer}.x .c1-9v{padding-bottom:30%}.x .c1-9y{top:0px}.x .c1-9z{right:0px}.x .c1-a0{bottom:0px}.x .c1-a1{position:absolute !important}.x .c1-a2{transform:translate3d(0,0,0)}.x .c1-a3{left:56px}.x .c1-a4{top:8px}.x .c1-a5{min-height:40px}.x .c1-a9{width:18px}.x .c1-aa{height:18px}.x .c1-ab{top:50%}.x .c1-ac{right:auto}.x .c1-ad{line-height:0}.x .c1-ae{transform:translateY(-50%)}.x .c1-af > img{display:block}.x .c1-ag{margin-left:calc(18px + 8px)}.x .c1-ah{margin-top:-4px}.x .c1-aq{border-color: #999}.x .c1-ar{flex-grow:3}.x .c1-au{letter-spacing:0.083em}.x .c1-aw{margin-top:24px}.x .c1-ay{position:fixed}.x .c1-az{right:24px}.x .c1-b0{bottom:24px}.x .c1-b1{z-index:9999}.x .c1-b2{width:65px}.x .c1-b3{height:65px}.x .c1-b5{border-radius:50%}.x .c1-b6{background-color:rgb(241, 206, 188)}.x .c1-b7{box-shadow:0px 3px 18px rgba(0, 0, 0, 0.25)}.x .c1-b8{transform:translateZ(0)}.x .c1-b9{color:rgb(18, 17, 17)}</style>
+<style data-glamor="cxs-xs-sheet">@media (max-width: 767px){.x .c1-q{padding-top:32px}}@media (max-width: 767px){.x .c1-r{padding-bottom:32px}}@media (max-width: 767px){.x .c1-1k{width:100%}}@media (max-width: 767px){.x .c1-1l{display:flex}}@media (max-width: 767px){.x .c1-1m{justify-content:center}}@media (max-width: 767px){.x .c1-52{flex-direction:column}}@media (max-width: 767px){.x .c1-6l{height:calc((100vw - 48px)/2)}}@media (max-width: 767px){.x .c1-6p > :nth-child(n){margin-bottom:16px}}@media (max-width: 767px){.x .c1-6q  > :last-child{margin-bottom:0 !important}}@media (max-width: 767px){.x .c1-7m > p > ul{margin-left:0px}}@media (max-width: 767px){.x .c1-7n > p > ul{margin-right:0px}}@media (max-width: 767px){.x .c1-7o > p > ul{padding-left:24px}}@media (max-width: 767px){.x .c1-89 > :nth-child(n){margin-bottom:24px}}@media (max-width: 767px){.x .c1-9t{margin-top:24px}}@media (max-width: 767px){.x .c1-9w{margin-top:0px}}@media (max-width: 767px){.x .c1-9x{min-height:200px}}@media (max-width: 767px){.x .c1-a6{font-size:12px}}@media (max-width: 767px){.x .c1-a7{left:8px}}@media (max-width: 767px){.x .c1-a8{max-width:90%}}@media (max-width: 767px){.x .c1-an{margin-top:0px}}@media (max-width: 767px){.x .c1-ao{margin-bottom:0px}}</style>
+<style data-glamor="cxs-sm-sheet">@media (min-width: 768px){.x .c1-d{font-size:16px}}@media (min-width: 768px){.x .c1-u{margin-bottom:40px}}@media (min-width: 768px){.x .c1-10{width:100%}}@media (min-width: 768px) and (max-width: 1023px){.x .c1-1n{width:100%}}@media (min-width: 768px){.x .c1-2l{font-size:30px}}@media (min-width: 768px){.x .c1-2y{font-size:38px}}@media (min-width: 768px){.x .c1-33{font-size:22px}}@media (min-width: 768px){.x .c1-3g{display:flex}}@media (min-width: 768px){.x .c1-3h{flex-direction:row}}@media (min-width: 768px){.x .c1-3i{min-height:unset}}@media (min-width: 768px){.x .c1-3k{min-width:50%}}@media (min-width: 768px){.x .c1-3s{object-fit:cover}}@media (min-width: 768px){.x .c1-3t{min-height:400px}}@media (min-width: 768px){.x .c1-3u{height:auto}}@media (min-width: 768px){.x .c1-40{min-width:360px}}@media (min-width: 768px){.x .c1-41{flex-basis:360px}}@media (min-width: 768px){.x .c1-42{padding-top:40px}}@media (min-width: 768px){.x .c1-43{padding-right:40px}}@media (min-width: 768px){.x .c1-44{padding-bottom:40px}}@media (min-width: 768px){.x .c1-45{padding-left:40px}}@media (min-width: 768px){.x .c1-49{max-height:80vh}}@media (min-width: 768px){.x .c1-5h{width:auto}}@media (min-width: 768px){.x .c1-5i{font-size:14px}}@media (min-width: 768px){.x .c1-5p{margin-bottom:32px}}@media (min-width: 768px){.x .c1-5z{margin-top:0}}@media (min-width: 768px){.x .c1-60{margin-right:-24px}}@media (min-width: 768px){.x .c1-61{margin-bottom:-48px}}@media (min-width: 768px){.x .c1-62{margin-left:-24px}}@media (min-width: 768px){.x .c1-68{padding-top:0}}@media (min-width: 768px){.x .c1-69{padding-right:24px}}@media (min-width: 768px){.x .c1-6a{padding-bottom:48px}}@media (min-width: 768px){.x .c1-6b{padding-left:24px}}@media (min-width: 768px){.x .c1-6c{margin-bottom:0}}@media (min-width: 768px){.x .c1-6e{flex-basis:50%}}@media (min-width: 768px){.x .c1-6f{max-width:50%}}@media (min-width: 768px){.x .c1-6g{padding-bottom:0}}@media (min-width: 768px){.x .c1-83{margin-left:8.333333333333332%}}@media (min-width: 768px){.x .c1-84{flex-basis:83.33333333333334%}}@media (min-width: 768px){.x .c1-85{max-width:83.33333333333334%}}@media (min-width: 768px){.x .c1-9o{font-size:12px}}@media (min-width: 768px){.x .c1-9u{margin-left:16px}}@media (min-width: 768px){.x .c1-aj{margin-top:4px}}@media (min-width: 768px){.x .c1-ak{margin-bottom:4px}}@media (min-width: 768px){.x .c1-al{margin-right:24px}}@media (min-width: 768px){.x .c1-am{height:100%}}@media (min-width: 768px){.x .c1-ap{max-width:30%}}</style>
+<style data-glamor="cxs-md-sheet">@media (min-width: 1024px){.x .c1-e{font-size:16px}}@media (min-width: 1024px){.x .c1-11{width:984px}}@media (min-width: 1024px){.x .c1-15{display:block}}@media (min-width: 1024px){.x .c1-2m{overflow-wrap:break-word}}@media (min-width: 1024px){.x .c1-2n{font-size:30px}}@media (min-width: 1024px){.x .c1-2z{font-size:38px}}@media (min-width: 1024px){.x .c1-34{font-size:22px}}@media (min-width: 1024px){.x .c1-39{display:none}}@media (min-width: 1024px){.x .c1-46{max-width:100%}}@media (min-width: 1024px){.x .c1-47{min-width:388px}}@media (min-width: 1024px){.x .c1-48{flex-basis:388px}}@media (min-width: 1024px){.x .c1-5g:hover{box-shadow:0 10px 10px -10px rgba(0, 0, 0, 0.5)}}@media (min-width: 1024px){.x .c1-5j{font-size:14px}}@media (min-width: 1024px){.x .c1-6h{margin-bottom:0}}@media (min-width: 1024px){.x .c1-7y{width:33.3333%}}@media (min-width: 1024px){.x .c1-86{margin-left:16.666666666666664%}}@media (min-width: 1024px){.x .c1-87{flex-basis:66.66666666666666%}}@media (min-width: 1024px){.x .c1-88{max-width:66.66666666666666%}}@media (min-width: 1024px){.x .c1-8b{flex-basis:33.33333333333333%}}@media (min-width: 1024px){.x .c1-8c{max-width:33.33333333333333%}}@media (min-width: 1024px){.x .c1-9p{font-size:12px}}@media (min-width: 1024px){.x .c1-ai{margin-top:0}}@media (min-width: 1024px){.x .c1-as{flex-basis:0%}}@media (min-width: 1024px){.x .c1-at{max-width:none}}@media (min-width: 1024px){.x .c1-av{text-align:left}}@media (min-width: 1024px){.x .c1-ax{text-align:right}}@media (min-width: 1024px){.x .c1-b4{z-index:9999}}</style>
+<style data-glamor="cxs-lg-sheet">@media (min-width: 1280px){.x .c1-f{font-size:16px}}@media (min-width: 1280px){.x .c1-12{width:1160px}}@media (min-width: 1280px){.x .c1-2o{font-size:32px}}@media (min-width: 1280px){.x .c1-30{font-size:44px}}@media (min-width: 1280px){.x .c1-35{font-size:22px}}@media (min-width: 1280px){.x .c1-5k{font-size:14px}}@media (min-width: 1280px){.x .c1-9q{font-size:12px}}</style>
+<style data-glamor="cxs-xl-sheet">@media (min-width: 1536px){.x .c1-g{font-size:18px}}@media (min-width: 1536px){.x .c1-13{width:1280px}}@media (min-width: 1536px){.x .c1-2p{font-size:36px}}@media (min-width: 1536px){.x .c1-31{font-size:48px}}@media (min-width: 1536px){.x .c1-36{font-size:24px}}@media (min-width: 1536px){.x .c1-5l{font-size:16px}}@media (min-width: 1536px){.x .c1-9r{font-size:14px}}</style>
+<style>@keyframes opacity-bounce { 
+      0% {opacity: 0;transform: translateY(100%); } 
+      60% { transform: translateY(-20%); } 
+      100% { opacity: 1; transform: translateY(0); }
+    }</style>
+<style>.gd-ad-flex-parent {
+          animation-name: opacity-bounce; 
+          animation-duration: 800ms; 
+          animation-delay: 400ms; 
+          animation-fill-mode: forwards; 
+          animation-timing-function: ease; 
+          opacity: 0;</style>
+<style>.grecaptcha-badge { visibility: hidden; }</style>
+<style>.page-inner { background-color: rgb(255, 255, 255); min-height: 100vh; }</style>
+<script>"use strict";
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('/sw.js');
+  });
+}</script></head>
+<body class="x  x-fonts-playfair-display"><div id="layout-96-f-35619-41-f-9-485-a-b-2-f-1-4-d-37-abb-637-b-5" class="layout layout-layout layout-layout-layout-27 locale-en-IN lang-en"><div data-ux="Page" id="page-53902" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div id="fb6c4ef5-d8c3-49bc-b721-1b0135e7d058" class="widget widget-header widget-header-header-9"><div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-53903" class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <div id="freemium-ad-53904"></div><section data-ux="Section" data-aid="HEADER_SECTION" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-j c1-b c1-c c1-k c1-l c1-m c1-n c1-o c1-p c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-s c1-t c1-b c1-c c1-u c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-s c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-14 c1-b c1-c c1-d c1-15 c1-e c1-f c1-g"><nav data-ux="Block" class="x-el x-el-nav c1-1 c1-2 c1-4 c1-16 c1-17 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-18 c1-19 c1-1a c1-1b c1-1c c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-1d c1-1e c1-b c1-c c1-d c1-e c1-f c1-g"></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1f c1-1g c1-1h c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" data-aid="HEADER_LOGO_RENDERED" class="x-el x-el-div c1-1i c1-1j c1-c c1-1k c1-1l c1-1m c1-1n c1-d c1-e c1-f c1-g"><a rel="" role="link" aria-haspopup="menu" data-ux="Link" data-page="489de826-3c13-4f42-9103-2a945cd37bf8" title="Cash App Transfer" href="/" data-typography="LinkAlpha" class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-z c1-4 c1-b c1-1z c1-c c1-20 c1-21 c1-22 c1-d c1-e c1-f c1-g" data-tccl="ux2.HEADER.header9.Logo.Default.Link.Default.53906.click,click"><div data-ux="Block" id="logo-container-53907" class="x-el x-el-div c1-1 c1-2 c1-1i c1-4 c1-s c1-b c1-c c1-d c1-e c1-f c1-g"><h3 role="heading" aria-level="3" data-ux="LogoHeading" id="logo-text-53908" data-aid="HEADER_LOGO_TEXT_RENDERED" data-typography="LogoAlpha" class="x-el x-el-h3 c1-23 c1-2 c1-1r c1-1s c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-1i c1-1j c1-2i c1-2j c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p">Cash App Transfer</h3><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xxlarge" data-scaler-id="scaler-logo-container-53907" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-2x c1-1j c1-2i c1-2k c1-2y c1-2m c1-2z c1-30 c1-31">Cash App Transfer</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xlarge" data-scaler-id="scaler-logo-container-53907" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-2j c1-1j c1-2i c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p">Cash App Transfer</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="large" data-scaler-id="scaler-logo-container-53907" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-32 c1-1j c1-2i c1-2k c1-33 c1-2m c1-34 c1-35 c1-36">Cash App Transfer</span></div></a></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-37 c1-1b c1-1e c1-b c1-c c1-d c1-e c1-f c1-g"></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-18 c1-19 c1-1a c1-1b c1-1c c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" id="navBar-53905" class="x-el x-el-div c1-1 c1-2 c1-18 c1-19 c1-1f c1-b c1-c c1-d c1-e c1-f c1-g"></div></div></nav></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-b c1-c c1-d c1-39 c1-e c1-f c1-g"><nav data-ux="Block" class="x-el x-el-nav c1-1 c1-2 c1-4 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4 c1-19 c1-1a c1-1b c1-1c c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-3a c1-3b c1-3c c1-3d c1-3e c1-3f c1-b c1-c c1-d c1-e c1-f c1-g"></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4 c1-1g c1-19 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" data-aid="HEADER_LOGO_RENDERED" class="x-el x-el-div c1-1i c1-1j c1-c c1-1k c1-1l c1-1m c1-1n c1-d c1-e c1-f c1-g"><a rel="" role="link" aria-haspopup="menu" data-ux="Link" data-page="489de826-3c13-4f42-9103-2a945cd37bf8" title="Cash App Transfer" href="/" data-typography="LinkAlpha" class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-z c1-4 c1-b c1-1z c1-c c1-20 c1-21 c1-22 c1-d c1-e c1-f c1-g" data-tccl="ux2.HEADER.header9.Logo.Default.Link.Default.53909.click,click"><div data-ux="Block" id="logo-container-53910" class="x-el x-el-div c1-1 c1-2 c1-1i c1-4 c1-s c1-b c1-c c1-d c1-e c1-f c1-g"><h3 role="heading" aria-level="3" data-ux="LogoHeading" id="logo-text-53911" data-aid="HEADER_LOGO_TEXT_RENDERED" data-typography="LogoAlpha" class="x-el x-el-h3 c1-23 c1-2 c1-1r c1-1s c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-1i c1-1j c1-2i c1-2j c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p">Cash App Transfer</h3><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xxlarge" data-scaler-id="scaler-logo-container-53910" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-2x c1-1j c1-2i c1-2k c1-2y c1-2m c1-2z c1-30 c1-31">Cash App Transfer</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xlarge" data-scaler-id="scaler-logo-container-53910" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-2j c1-1j c1-2i c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p">Cash App Transfer</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="large" data-scaler-id="scaler-logo-container-53910" aria-hidden="true" data-typography="LogoAlpha" class="x-el x-el-span c1-23 c1-2 c1-2q c1-2r c1-24 c1-v c1-w c1-25 c1-26 c1-z c1-1g c1-27 c1-28 c1-29 c1-2a c1-2s c1-2c c1-2d c1-2e c1-2f c1-2g c1-2h c1-14 c1-2t c1-2u c1-2v c1-2w c1-32 c1-1j c1-2i c1-2k c1-33 c1-2m c1-34 c1-35 c1-36">Cash App Transfer</span></div></a></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-3a c1-3b c1-3c c1-3d c1-3e c1-3f c1-b c1-c c1-d c1-e c1-f c1-g"></div></div></nav></div></div></div><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-3b c1-3d c1-25 c1-26 c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-s c1-b c1-c c1-3g c1-3h c1-3i c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-19 c1-1f c1-1b c1-3j c1-b c1-c c1-3k c1-d c1-e c1-f c1-g"><figure data-ux="WrapperImage" class="x-el x-el-figure c1-1 c1-2 c1-s c1-1i c1-25 c1-3l c1-26 c1-3m c1-4 c1-b c1-c c1-d c1-e c1-f c1-g"><picture data-lazyimg="true" class="x-el x-el-picture c1-1 c1-2 c1-4 c1-3n c1-1g c1-3o c1-3f c1-b c1-c c1-d c1-e c1-f c1-g"><source media="(max-width: 450px)" srcSet="//img1.wsimg.com/isteam/stock/3270/:/rs=h:500,cg:true,m, //img1.wsimg.com/isteam/stock/3270/:/rs=h:1000,cg:true,m 2x, //img1.wsimg.com/isteam/stock/3270/:/rs=h:1500,cg:true,m 3x"/><source media="(min-width: 451px)" srcSet="//img1.wsimg.com/isteam/stock/3270/:/rs=h:1000,cg:true,m, //img1.wsimg.com/isteam/stock/3270/:/rs=h:2000,cg:true,m 2x, //img1.wsimg.com/isteam/stock/3270/:/rs=h:3000,cg:true,m 3x"/><img data-ux="Image" src="//img1.wsimg.com/isteam/stock/3270/:/rs=h:1000,cg:true,m" data-aid="BACKGROUND_IMAGE_RENDERED" data-ht="Inset" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-3r c1-b c1-c c1-1k c1-3s c1-10 c1-3t c1-3u c1-d c1-e c1-f c1-g"/></picture></figure></div><div data-ux="Hero" class="x-el x-el-div c1-1 c1-2 c1-1g c1-19 c1-3v c1-3w c1-1f c1-1b c1-x c1-y c1-3x c1-3y c1-3z c1-b c1-c c1-10 c1-40 c1-41 c1-42 c1-43 c1-44 c1-45 c1-d c1-46 c1-47 c1-48 c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-3v c1-1f c1-1b c1-3n c1-4 c1-b c1-c c1-49 c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-4a c1-4 c1-b c1-c c1-d c1-e c1-f c1-g"><h2 role="heading" aria-level="2" data-ux="SupTagline" data-typography="HeadingBeta" class="x-el x-el-h2 c1-4b c1-4c c1-1r c1-1s c1-4d c1-v c1-w c1-25 c1-4e c1-4 c1-4f c1-s c1-b c1-c c1-1z c1-2k c1-d c1-e c1-f c1-g">Welcome</h2><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-3m c1-3l c1-3e c1-3c c1-z c1-4g c1-3b c1-3d c1-25 c1-26 c1-3f c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div id="tagline-container-53912" defaultFontSize="xxlarge" class="x-el x-el-div c1-1 c1-2 c1-1r c1-1s c1-4h c1-s c1-z c1-2s c1-4i c1-b c1-c c1-d c1-e c1-f c1-g"><h1 role="heading" aria-level="1" data-ux="Tagline" maxLines="4" data-aid="HEADER_TAGLINE_RENDERED" id="dynamic-tagline-53913" containerId="tagline-container-53912" data-typography="HeadingAlpha" class="x-el x-el-h1 c1-4j c1-2 c1-1r c1-1s c1-4i c1-v c1-w c1-25 c1-4e c1-4k c1-2x c1-z c1-s c1-1i c1-1j c1-2i c1-2k c1-2y c1-2z c1-30 c1-31">Fast and Secure Money Transfers</h1><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xxlarge" data-scaler-id="scaler-tagline-container-53912" aria-hidden="true" data-typography="HeadingAlpha" class="x-el x-el-span c1-4j c1-2 c1-2q c1-2r c1-4i c1-v c1-w c1-25 c1-4e c1-4k c1-z c1-14 c1-2u c1-2t c1-2s c1-2v c1-2w c1-2x c1-1j c1-2i c1-2k c1-2y c1-2z c1-30 c1-31">Fast and Secure Money Transfers</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="xlarge" data-scaler-id="scaler-tagline-container-53912" aria-hidden="true" data-typography="HeadingAlpha" class="x-el x-el-span c1-4j c1-2 c1-2q c1-2r c1-4i c1-v c1-w c1-25 c1-4e c1-4k c1-z c1-14 c1-2u c1-2t c1-2s c1-2v c1-2w c1-2j c1-1j c1-2i c1-2k c1-2l c1-2n c1-2o c1-2p">Fast and Secure Money Transfers</span><span role="heading" aria-level="NaN" data-ux="scaler" data-size="large" data-scaler-id="scaler-tagline-container-53912" aria-hidden="true" data-typography="HeadingAlpha" class="x-el x-el-span c1-4j c1-2 c1-2q c1-2r c1-4i c1-v c1-w c1-25 c1-4e c1-4k c1-z c1-14 c1-2u c1-2t c1-2s c1-2v c1-2w c1-32 c1-1j c1-2i c1-2k c1-33 c1-34 c1-35 c1-36">Fast and Secure Money Transfers</span></div></div><div data-ux="HeroText" data-aid="HEADER_TAGLINE2_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-4e c1-4m c1-4n c1-4o c1-4p c1-1i c1-4 c1-4a c1-v c1-w c1-b c1-4q c1-c c1-2k c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>Send money online with Cash App Transfer, the best way to transfer money internationally.</span></p></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4 c1-19 c1-4y c1-4z c1-50 c1-1f c1-51 c1-b c1-c c1-52 c1-d c1-e c1-f c1-g"><div style="max-width:100%"><a data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" data-aid="HEADER_CTA_BTN" href="/" target="" data-tccl="ux2.header.cta_button.click,click" data-page="489de826-3c13-4f42-9103-2a945cd37bf8" data-typography="ButtonAlpha" class="x-el x-el-a c1-53 c1-4c c1-54 c1-2s c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-s c1-z c1-57 c1-58 c1-27 c1-28 c1-59 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-5e c1-5f c1-5g c1-5h c1-5i c1-5j c1-5k c1-5l">Get Started</a></div></div></div></div></div></div></div></div></section>  </div></div></div><div id="5bb0d269-4a84-4e45-9feb-482d76693644" class="widget widget-about widget-about-about-2"><div data-ux="Widget" role="region" id="5bb0d269-4a84-4e45-9feb-482d76693644" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="ABOUT_SECTION_TITLE_RENDERED" data-typography="HeadingBeta" class="x-el x-el-h2 c1-4b c1-4c c1-1r c1-1s c1-5m c1-3m c1-3l c1-25 c1-t c1-5n c1-b c1-c c1-5o c1-2k c1-5p c1-d c1-e c1-f c1-g"><span data-ux="Element" class="">About Cash App Transfer</span></h2><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-5x c1-5y c1-b c1-c c1-5z c1-60 c1-61 c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-66 c1-67 c1-b c1-c c1-68 c1-69 c1-6a c1-6b c1-d c1-e c1-f c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-1f c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-6d c1-1f c1-b c1-c c1-6e c1-6f c1-68 c1-69 c1-6g c1-6b c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-t c1-1g c1-b c1-c c1-d c1-6h c1-e c1-f c1-g"><span data-ux="Element" class="x-el x-el-span c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><picture data-lazyimg="true" class="x-el x-el-picture c1-1 c1-2 c1-4 c1-3n c1-1g c1-3o c1-3f c1-b c1-c c1-d c1-e c1-f c1-g"><source media="(max-width: 450px)" srcSet="//img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:403,h:202,cg:true,m/cr=w:403,h:202, //img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:806,h:403,cg:true,m/cr=w:806,h:403 2x, //img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:1209,h:605,cg:true,m/cr=w:1209,h:605 3x"/><source media="(min-width: 451px)" srcSet="//img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300, //img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:1200,h:600,cg:true,m/cr=w:1200,h:600 2x, //img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:1800,h:900,cg:true,m/cr=w:1800,h:900 3x"/><img data-ux="Image" src="//img1.wsimg.com/isteam/stock/pme8zr4/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300" data-aid="ABOUT_IMAGE_RENDERED0" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-6i c1-6j c1-6k c1-3r c1-b c1-c c1-6l c1-d c1-e c1-f c1-g"/></picture></span></div></div><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-19 c1-1d c1-1b c1-b c1-c c1-6e c1-6f c1-68 c1-69 c1-6g c1-6b c1-d c1-e c1-f c1-g"><div data-ux="ContentBasic" index="0" id="6e036f79-8193-41f4-916b-61fac7c72eb2" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-1b c1-1g c1-6n c1-6o c1-b c1-c c1-6p c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="ABOUT_HEADLINE_RENDERED0" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Our Commitment</h4><div data-ux="ContentText" alignment="center" data-aid="ABOUT_DESCRIPTION_RENDERED0" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>At Cash App Transfer, we are committed to providing our customers with the best possible money transfer experience. We are constantly seeking to improve our services and ensure that our customers have access to the most innovative and secure transfer solutions.</span></p></div></div></div></div></div></div></div></section>  </div></div></div><div id="5d355e7e-e0c2-4d82-9eba-2a9a21f47b09" class="widget widget-gallery widget-gallery-gallery-4"><div data-ux="Widget" role="region" id="5d355e7e-e0c2-4d82-9eba-2a9a21f47b09" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-7p c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="GALLERY_SECTION_TITLE_RENDERED" data-typography="HeadingBeta" class="x-el x-el-h2 c1-4b c1-4c c1-1r c1-1s c1-5m c1-3m c1-3l c1-25 c1-t c1-5n c1-b c1-c c1-5o c1-2k c1-5p c1-d c1-e c1-f c1-g"><span data-ux="Element" class="">Our Money Transfer Services in Action</span></h2><div data-ux="Element" id="bs-1" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-7q c1-7r c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" id="gallery4-53914" class="x-el x-el-div c1-1 c1-2 c1-7s c1-25 c1-3l c1-26 c1-3m c1-3f c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" data-aid="GALLERY_IMAGE0_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/87402/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/87402/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/87402/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/87402/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE0_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Block" data-aid="GALLERY_IMAGE1_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/kagVaey/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/kagVaey/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/kagVaey/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/kagVaey/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE1_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Block" data-aid="GALLERY_IMAGE2_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/100550/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/100550/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/100550/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/100550/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE2_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Block" data-aid="GALLERY_IMAGE3_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/wVKzEem/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/wVKzEem/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/wVKzEem/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/wVKzEem/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE3_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Block" data-aid="GALLERY_IMAGE4_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/jpmklJO/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/jpmklJO/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/jpmklJO/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/jpmklJO/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE4_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Block" data-aid="GALLERY_IMAGE5_CELL_RENDERED" class="x-el x-el-div c1-1 c1-2 c1-7t c1-1i c1-7u c1-7v c1-7w c1-7x c1-b c1-c c1-d c1-7y c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1u c1-7z c1-4 c1-80 c1-81 c1-4h c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/6975/:/rs=w:370,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/6975/:/rs=w:370,cg:true,m, //img1.wsimg.com/isteam/stock/6975/:/rs=w:740,cg:true,m 2x, //img1.wsimg.com/isteam/stock/6975/:/rs=w:1110,cg:true,m 3x" data-ux="Image" data-aid="GALLERY_IMAGE5_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-26 c1-3p c1-3q c1-1u c1-7z c1-80 c1-81 c1-4h c1-3r c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div></div></div></div></div></div></section>  </div></div></div><div id="eab9a123-213f-44b7-815f-6e9a2879be8f" class="widget widget-introduction widget-introduction-introduction-4"><div data-ux="Widget" role="region" id="eab9a123-213f-44b7-815f-6e9a2879be8f" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-1g c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-82 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-83 c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-86 c1-87 c1-88 c1-e c1-f c1-g"><div data-ux="ContentBasic" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-1b c1-1g c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="FeaturedHeading" data-aid="SECTION_TITLE_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Send Money Worldwide with Cash App Transfer</h4><div data-ux="FeaturedText" alignment="center" data-aid="DESCRIPTION_TEXT" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>Welcome to Cash App Transfer, the easiest and most convenient way to send money to your loved ones anywhere in the world. Our fast and reliable service guarantees that your money will reach its destination safely and securely.</span></p></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><a data-ux-btn="secondary" data-ux="ButtonSecondary" color="HIGHCONTRAST" data-aid="CTA_BUTTON_RENDERED" href="/" target="" data-tccl="ux2.INTRODUCTION.introduction4.Featured.Default.Button.Secondary.53916.click,click" data-page="489de826-3c13-4f42-9103-2a945cd37bf8" data-typography="ButtonAlpha" class="x-el x-el-a c1-53 c1-4c c1-54 c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-s c1-z c1-4 c1-57 c1-58 c1-27 c1-28 c1-59 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-5e c1-8a c1-5g c1-5h c1-5i c1-5j c1-5k c1-5l">Find out more</a></div></div></div></div></div></section>  </div></div></div><div id="622165db-aa16-40a2-be6c-70857efaa5dc" class="widget widget-content widget-content-content-1"><div data-ux="Widget" role="region" id="622165db-aa16-40a2-be6c-70857efaa5dc" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="CONTENT_SECTION_TITLE_RENDERED" data-typography="HeadingBeta" class="x-el x-el-h2 c1-4b c1-4c c1-1r c1-1s c1-5m c1-3m c1-3l c1-25 c1-t c1-5n c1-b c1-c c1-5o c1-2k c1-5p c1-d c1-e c1-f c1-g"><span data-ux="Element" class="">Fast and Secure Money Transfers</span></h2><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-5n c1-1f c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-8b c1-8c c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1g c1-b c1-c c1-d c1-e c1-f c1-g"><span data-ux="Element" class="x-el x-el-span c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><img data-lazyimg="true" data-srclazy="//img1.wsimg.com/isteam/stock/3270/:/rs=w:400,cg:true,m" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-srcsetlazy="//img1.wsimg.com/isteam/stock/3270/:/rs=w:400,cg:true,m, //img1.wsimg.com/isteam/stock/3270/:/rs=w:800,cg:true,m 2x, //img1.wsimg.com/isteam/stock/3270/:/rs=w:1200,cg:true,m 3x" data-ux="Image" data-aid="CONTENT_IMAGE1_RENDERED" class="x-el x-el-img c1-1 c1-2 c1-4 c1-z c1-v c1-w c1-25 c1-8d c1-3p c1-3q c1-1i c1-3r c1-b c1-c c1-d c1-6h c1-e c1-f c1-g"/></span></div></div><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-8e c1-6o c1-b c1-c c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-87 c1-88 c1-e c1-f c1-g"><div data-ux="ContentBasic" id="d7727b4c-d33e-40a4-8ed5-fb88c2d29d49" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE1_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Send Money Anywhere, Anytime</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION1_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>With Cash App Transfer, you can send money to your loved ones anywhere in the world, at any time. Our platform is designed to make sending money easy, reliable, and affordable. Say goodbye to long wait times and complicated processes.</span></p></div></div><div data-ux="ContentBasic" id="bf06b553-4687-46be-a5d6-a68a5a21be3f" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE2_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Low Transaction Fees</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION2_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>We believe in providing our customers with affordable money transfer services. That's why we charge a low transaction fee for all transactions. With Cash App Transfer, you can rest assured that you're getting the best deal possible.</span></p></div></div><div data-ux="ContentBasic" id="b21920af-caa8-481e-8aad-7c3071fa5d4b" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE3_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Multiple Payment Options</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION3_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>We understand that everyone has their preferred payment method. That's why we offer multiple payment options such as credit/debit card, bank transfer, and more. Choose the option that works best for you and start sending money today.</span></p></div></div><div data-ux="ContentBasic" id="d09f1b31-5159-4a86-8460-9cf79bbdf7fa" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE4_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">24/7 Customer Support</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION4_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>At Cash App Transfer, we value our customers and their satisfaction. That's why we offer 24/7 customer support to answer any questions you may have. Our team of experts is always ready to help you with any issues you may encounter.</span></p></div></div><div data-ux="ContentBasic" id="8ec4830c-eb49-4c33-913f-ff55278b2634" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE5_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Fast and Reliable Transactions</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION5_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>With our advanced technology, we ensure that all transactions are processed quickly and efficiently. You can trust us to deliver your money to your loved ones in no time. Say goodbye to long wait times and hello to fast and reliable money transfers.</span></p></div></div><div data-ux="ContentBasic" id="ec1385ca-c74c-4428-b2d7-46da28acef35" class="x-el x-el-div x-el c1-1 c1-2 c1-19 c1-3v c1-4 c1-6m c1-8f c1-5n c1-6n c1-6o c1-b c1-c c1-89 c1-6q c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTENT_HEADLINE6_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-26 c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Secure and Safe Transactions</h4><div data-ux="ContentText" alignment="left" data-aid="CONTENT_DESCRIPTION6_RENDERED" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-3w c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>We understand the importance of your financial information. That's why we use the latest security measures to ensure that all transactions are safe and secure. You can trust us to keep your information safe and secure.</span></p></div></div></div></div></div></section>  </div></div></div><div id="72f95656-17f4-44fb-88cd-2c3590f7d116" class="widget widget-contact widget-contact-contact-5"><div data-ux="Widget" role="region" id="72f95656-17f4-44fb-88cd-2c3590f7d116" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-3d c1-8g c1-b c1-c c1-q c1-r c1-6g c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-68 c1-69 c1-6g c1-6b c1-d c1-e c1-f c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-82 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-68 c1-69 c1-6g c1-6b c1-d c1-e c1-f c1-g"><h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="CONTACT_SECTION_TITLE_REND" data-typography="HeadingBeta" class="x-el x-el-h2 c1-4b c1-4c c1-1r c1-1s c1-5m c1-3m c1-3l c1-25 c1-t c1-5n c1-b c1-c c1-5o c1-2k c1-5p c1-d c1-e c1-f c1-g"><span data-ux="Element" class="">Contact Us</span></h2></div></div></div></div><div data-ux="Content" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Grid" data-aid="CONTACT_INFO_CONTAINER_REND" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-1g c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-82 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-83 c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-86 c1-87 c1-88 c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-8h c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTACT_INTRO_HEADING_REND" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-t c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Better yet, see us in person!</h4><div data-ux="ContentText" data-aid="CONTACT_INTRO_DESC_REND" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-t c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"><p style="margin:0"><span>We love our customers, so feel free to visit during normal business hours.</span></p></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-8h c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTACT_INFO_BIZ_NAME_REND" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-t c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Cash App Transfer</h4><p data-ux="ContentText" data-aid="CONTACT_INFO_ADDRESS_REND" data-typography="BodyAlpha" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-t c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g">95, J Block Road, Block J, Vikaspuri, Delhi, India</p></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-8i c1-b c1-c c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentHeading" data-aid="CONTACT_HOURS_TITLE_REND" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-t c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Hours</h4><div data-ux="Block" data-aid="CONTACT_HOURS_REND" class="x-el x-el-div c1-1 c1-2 c1-t c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Element" id="bs-2" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><table style="border-spacing:0;text-align:left;display:inline-table"><tr data-aid="CONTACT_HOURS_COLLAPSED_REND" style="cursor:pointer"><td style="padding-right:medium"><p data-ux="ContentText" data-aid="CONTACT_HOURS_COLLAPSED_LABEL" data-typography="BodyAlpha" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g">Today</p></td><td><p data-ux="ContentText" data-typography="BodyAlpha" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-8j c1-7x c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g"><span rel="" role="button" aria-haspopup="menu" data-ux="Link" data-aid="CONTACT_HOURS_COLLAPSED_HR_LABEL" data-typography="LinkAlpha" class="x-el x-el-span c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-b c1-5o c1-c c1-20 c1-8k c1-8l c1-d c1-e c1-f c1-g" data-tccl="ux2.CONTACT.contact5.Content.Default.Link.Default.53917.click,click">Closed</span></p></td><td><p data-ux="ContentText" data-aid="CONTACT_HOURS_COLLAPSED_ARROW" data-typography="BodyAlpha" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g"><span rel="" role="button" aria-haspopup="menu" data-ux="Link" data-typography="LinkAlpha" class="x-el x-el-span c1-1o c1-1p c1-1q c1-1r c1-1s c1-19 c1-1u c1-8m c1-b c1-5o c1-c c1-20 c1-8k c1-8l c1-d c1-e c1-f c1-g" data-tccl="ux2.CONTACT.contact5.Group.Default.Link.Default.53918.click,click"><svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" data-ux="Icon" class="x-el x-el-svg c1-1 c1-2 c1-4s c1-1i c1-8n c1-8o c1-3p c1-s c1-8p c1-b c1-c c1-d c1-e c1-f c1-g"><path fill-rule="evenodd" d="M19.774 7.86c.294-.335.04-.839-.423-.84L4.538 7c-.447-.001-.698.48-.425.81l7.204 8.693a.56.56 0 0 0 .836.011l7.621-8.654z"></path></svg></span></p></td></tr></table></div></div><div data-ux="ContentText" data-aid="CONTACT_HOURS_CUST_MSG_REND" data-typography="BodyAlpha" class="x-el c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-79 c1-7a c1-7b c1-7c c1-7d c1-7e c1-7f c1-7g c1-7h c1-7i c1-7j c1-7k c1-b c1-7l c1-c c1-2k c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g x-rt"></div></div></div></div></div><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-1g c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-82 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-83 c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-86 c1-87 c1-88 c1-e c1-f c1-g"><div data-ux="Element" id="bs-3" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><button data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" data-aid="CONTACT_FORM_REVEAL_BUTTON_REND" data-typography="ButtonAlpha" class="x-el x-el-button c1-53 c1-4c c1-54 c1-8q c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-s c1-z c1-4 c1-57 c1-58 c1-27 c1-28 c1-59 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-5e c1-8a c1-5g c1-5h c1-5i c1-5j c1-5k c1-5l" data-tccl="ux2.CONTACT.contact5.Content.Default.Button.Primary.53919.click,click">Drop us a line!</button><div data-ux="Block" data-aid="CONTACT_FORM_CONTAINER_REND" class="x-el x-el-div c1-1 c1-2 c1-8q c1-14 c1-b c1-c c1-d c1-e c1-f c1-g"><form aria-live="polite" data-ux="Form" class="x-el x-el-form c1-1 c1-2 c1-26 c1-b c1-c c1-d c1-e c1-f c1-g"><input type="text" name="_app_id" autoComplete="off" tabindex="-1" style="display:none" value=""/><h4 role="heading" aria-level="4" data-ux="HeadingMinor" data-aid="CONTACT_FORM_TITLE_REND" data-typography="HeadingDelta" class="x-el x-el-h4 c1-6r c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-25 c1-t c1-b c1-6s c1-32 c1-2k c1-33 c1-34 c1-35 c1-36">Drop us a line!</h4><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" data-aid="CONTACT_FORM_COL1" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-64 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-68 c1-69 c1-6g c1-6b c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="InputFloatLabel" type="text" data-aid="CONTACT_FORM_NAME" class="x-el x-el-div c1-1 c1-2 c1-s c1-8r c1-b c1-c c1-d c1-e c1-f c1-g"><input type="text" role="textbox" aria-multiline="false" data-ux="InputFloatLabel" id="input53920" value="" data-aid="CONTACT_FORM_NAME" data-typography="BodyAlpha" class="x-el x-el-input c1-1 c1-2 c1-8r c1-8s c1-4 c1-8t c1-8u c1-2g c1-8v c1-8w c1-28 c1-8x c1-8y c1-5a c1-2c c1-b c1-7l c1-c c1-2k c1-8z c1-90 c1-91 c1-92 c1-93 c1-94 c1-95 c1-96 c1-97 c1-98 c1-d c1-e c1-f c1-g"/><label data-ux="InputFloatLabelLabel" for="input53920" data-typography="BodyAlpha" class="x-el x-el-label c1-1 c1-2 c1-1i c1-1r c1-1s c1-2u c1-99 c1-9a c1-9b c1-9c c1-b c1-7l c1-c c1-2k c1-d c1-e c1-f c1-g">Name</label></div></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="InputFloatLabel" type="text" data-aid="CONTACT_FORM_EMAIL" class="x-el x-el-div c1-1 c1-2 c1-s c1-8r c1-b c1-c c1-d c1-e c1-f c1-g"><input type="text" role="textbox" aria-multiline="false" data-ux="InputFloatLabel" id="input53921" value="" data-aid="CONTACT_FORM_EMAIL" data-typography="BodyAlpha" class="x-el x-el-input c1-1 c1-2 c1-8r c1-8s c1-4 c1-8t c1-8u c1-2g c1-8v c1-8w c1-28 c1-8x c1-8y c1-5a c1-2c c1-b c1-7l c1-c c1-2k c1-8z c1-90 c1-91 c1-92 c1-93 c1-94 c1-95 c1-96 c1-97 c1-98 c1-d c1-e c1-f c1-g"/><label data-ux="InputFloatLabelLabel" for="input53921" data-typography="BodyAlpha" class="x-el x-el-label c1-1 c1-2 c1-1i c1-1r c1-1s c1-2u c1-99 c1-9a c1-9b c1-9c c1-b c1-7l c1-c c1-2k c1-d c1-e c1-f c1-g">Email*</label></div></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><textarea role="textbox" aria-multiline="true" rows="4" aria-label="Message" data-ux="InputTextArea" placeholder="Message" data-aid="CONTACT_FORM_MESSAGE" data-typography="BodyAlpha" class="x-el x-el-textarea c1-1 c1-2 c1-8r c1-8s c1-4 c1-9d c1-9e c1-2g c1-9f c1-9g c1-9h c1-8x c1-8y c1-9i c1-2c c1-9j c1-9k c1-b c1-7l c1-c c1-2k c1-8z c1-90 c1-91 c1-98 c1-d c1-e c1-f c1-g"></textarea></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-38 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-3v c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-1a c1-4e c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" data-aid="CONTACT_FILE_INPUT_REND" class="x-el x-el-div c1-1 c1-2 c1-19 c1-1b c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" data-tccl="ux2.contact.upload_file.click,click" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><span rel="" role="button" aria-haspopup="menu" data-ux="LinkIcon" data-typography="LinkAlpha" class="x-el x-el-span c1-1o c1-1p c1-1q c1-1r c1-1s c1-1i c1-1u c1-9l c1-b c1-5o c1-c c1-20 c1-8k c1-8l c1-d c1-e c1-f c1-g" data-tccl="ux2.CONTACT.contact5.Form.Default.Link.Icon.53922.click,click"><svg viewBox="0 0 24 24" fill="currentColor" width="1em" height="1em" data-ux="Icon" data-aid="paperclip" class="x-el x-el-svg c1-1 c1-2 c1-4s c1-1i c1-8n c1-8o c1-3p c1-b c1-c c1-d c1-e c1-f c1-g"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.6 11.6L17 13l-5.9 5.9c-1.3 1.3-2.9 1.9-4.6 1.9-1.7 0-3.2-.7-4.5-2-2.5-2.5-2.5-6.6 0-9.2l7.1-7.1.1-.1c1.9-2 5.1-2 7.1 0l.1.1c2 2 2 5.1 0 7.1l-6.9 6.6c-.7.7-1.6 1.1-2.5 1.2h-.3c-.9 0-1.7-.3-2.2-.9-.7-.7-1-1.6-.9-2.6.1-.9.5-1.8 1.2-2.5l5.5-5.8L11.7 7l-5.5 5.9c-.4.4-.6.8-.6 1.3 0 .2 0 .7.3 1 .3.3.7.3 1 .3.4 0 .9-.3 1.3-.6L15 8.2C16.2 7 16.2 5.1 15 4l-.1-.1c-1.2-1.2-3.1-1.2-4.3 0l-.7.7-6.5 6.5c-1.8 1.8-1.8 4.6 0 6.3 1.8 1.7 4.6 1.8 6.3 0l5.9-5.8z"></path></svg></span><span rel="" role="button" aria-haspopup="menu" data-ux="Link" data-typography="LinkAlpha" class="x-el x-el-span c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-b c1-5o c1-c c1-20 c1-8k c1-8l c1-d c1-e c1-f c1-g" data-tccl="ux2.CONTACT.contact5.Form.Default.Link.Default.53923.click,click">Attach Files</span></div></div><input type="file" multiple="" accept=".jpg,.jpeg,.jpe,.png,.gif,.mp4,.m4a,.vid,.qt,.mov,.mpeg,.mpga,.mp2,.mp2a,.mp3,.m2a,.m3a,.msvideo,.ogg,.3gpp,.webm,.webp,.flac,.wav,.tiff,.mkv,.mk3d,.mks,.doc,.docx,.dot,.xls,.xlsx,.ppt,.pptx,.odp,.odt,.potx,.ppsx,.pdf,.txt,.text,.conf,.def,.list,.log,.in,.ini,.zip,.otf,.woff,.woff2,.csv,.rtf" style="display:none"/><span data-ux="DetailsMinor" data-aid="CONTACT_ATTACHMENT_COUNT_REND" data-typography="DetailsBeta" class="x-el x-el-span c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-b c1-9m c1-9n c1-2k c1-9o c1-9p c1-9q c1-9r">Attachments (0)</span></div></div></div></div></div></div><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-27 c1-9h c1-1g c1-b c1-c c1-d c1-e c1-f c1-g"><p data-ux="DetailsMinor" data-typography="DetailsBeta" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-b c1-9m c1-9n c1-2k c1-9o c1-9p c1-9q c1-9r">This site is protected by reCAPTCHA and the Google <a rel="noopener" role="link" aria-haspopup="true" data-ux="Link" target="_blank" href="https://policies.google.com/privacy" data-typography="LinkAlpha" class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-b c1-5o c1-9n c1-20 c1-8k c1-8l c1-9o c1-9p c1-9q c1-9r" data-tccl="ux2.CONTACT.contact5.Form.Default.Link.Default.53924.click,click">Privacy Policy</a> and <a rel="noopener" role="link" aria-haspopup="true" data-ux="Link" target="_blank" href="https://policies.google.com/terms" data-typography="LinkAlpha" class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-b c1-5o c1-9n c1-20 c1-8k c1-8l c1-9o c1-9p c1-9q c1-9r" data-tccl="ux2.CONTACT.contact5.Form.Default.Link.Default.53925.click,click">Terms of Service</a> apply.</p></div><div data-ux="Block" data-aid="CONTACT_FORM_CONTROLS" class="x-el x-el-div controls c1-1 c1-2 c1-19 c1-1f c1-1b c1-4y c1-1c c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><button data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" type="submit" data-aid="CONTACT_SUBMIT_BUTTON_REND" data-tccl="ux2.contact.submit_form.click,click" state="default" data-typography="ButtonAlpha" class="x-el x-el-button c1-53 c1-4c c1-54 c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-s c1-z c1-4 c1-57 c1-58 c1-27 c1-28 c1-59 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-5e c1-8a c1-5g c1-5h c1-5i c1-5j c1-5k c1-5l">Send</button></div><span data-ux="Text" data-aid="CONTACT_CANCEL_BUTTON_REND" data-typography="BodyAlpha" class="x-el x-el-span c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-26 c1-2b c1-4x c1-5o c1-1g c1-1t c1-3l c1-3m c1-b c1-c c1-2k c1-3f c1-9s c1-9t c1-9u c1-d c1-e c1-f c1-g">Cancel</span></div></div></div></form></div></div></div></div></div></div></div></section><div data-ux="MapBanner" class="x-el x-el-div c1-1 c1-2 c1-8q c1-9v c1-s c1-b c1-c c1-9w c1-9x c1-d c1-e c1-f c1-g"><div data-ux="Element" id="bs-4" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-2w c1-9y c1-9z c1-a0 c1-a1 c1-a2 c1-4h c1-1u c1-b c1-c c1-d c1-e c1-f c1-g"><div style="left:0;top:0;right:0;bottom:0;position:absolute;transform:translate3d(0,0,0)" data-aid="CONTACT_MAP_REND"></div><button data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" data-tccl="ux2.contact.get_directions.click,click" icon="direction" data-typography="ButtonAlpha" class="x-el x-el-button c1-53 c1-4c c1-54 c1-2u c1-a3 c1-a4 c1-2s c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-z c1-29 c1-2a c1-7u c1-7w c1-a5 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-9n c1-8a c1-5g c1-a6 c1-a7 c1-a8 c1-5h c1-9o c1-9p c1-9q c1-9r"><span data-ux="Element" class="x-el x-el-span c1-1o c1-1p c1-9n c1-b c1-s c1-7q c1-3l c1-9o c1-9p c1-9q c1-9r"><span data-ux="Element" class="x-el x-el-span c1-1 c1-2 c1-a9 c1-aa c1-2u c1-ab c1-2w c1-ac c1-ad c1-ae c1-af c1-b c1-9n c1-9o c1-9p c1-9q c1-9r"><svg viewBox="0 0 24 24" fill="currentColor" width="18px" height="18px" data-ux="Icon" class="x-el x-el-svg c1-1 c1-2 c1-4s c1-1i c1-3p c1-b c1-9n c1-9o c1-9p c1-9q c1-9r"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M19.94 6.078l-7.273 14.546c-.129.265-.345.398-.648.398a.962.962 0 01-.17-.023.716.716 0 01-.557-.705V13.75H4.746a.716.716 0 01-.704-.557.736.736 0 01.045-.477.687.687 0 01.33-.341L18.962 5.1a.683.683 0 01.33-.08c.204 0 .375.073.511.217a.678.678 0 01.21.392.69.69 0 01-.073.448z" fill="currentColor"></path></svg></svg></span><span data-ux="Element" class="x-el x-el-span iconText c1-1o c1-1p c1-9n c1-b c1-4h c1-1g c1-ag c1-3l c1-9o c1-9p c1-9q c1-9r">Get directions</span></span></button></div></div></div>  </div></div></div><div id="aea8f247-b0b2-4edf-8fe8-297196345d1d" class="widget widget-subscribe widget-subscribe-subscribe-1"><div data-ux="Widget" role="region" id="aea8f247-b0b2-4edf-8fe8-297196345d1d" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-h c1-i c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><h2 role="heading" aria-level="2" data-ux="SectionBannerHeading" data-aid="SECTION_TITLE_REND" data-typography="HeadingGamma" class="x-el x-el-h2 c1-23 c1-2 c1-1r c1-1s c1-4d c1-3m c1-3l c1-ah c1-8d c1-1g c1-1j c1-6s c1-2j c1-2k c1-2l c1-ai c1-2n c1-2o c1-2p">Subscribe</h2><div data-ux="Element" id="bs-5" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><span data-ux="Element" class="x-el x-el-span c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Grid" data-aid="SUBSCRIBE_INNER_FORM_REND" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-5w c1-26 c1-5y c1-b c1-c c1-5z c1-60 c1-6c c1-62 c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-3w c1-63 c1-82 c1-z c1-3b c1-65 c1-3d c1-67 c1-b c1-c c1-83 c1-84 c1-85 c1-68 c1-69 c1-6g c1-6b c1-d c1-86 c1-87 c1-88 c1-e c1-f c1-g"><p data-ux="Text" data-aid="FORM_DESC_REND" data-typography="BodyAlpha" class="x-el x-el-p c1-1 c1-2 c1-1r c1-1s c1-4l c1-25 c1-4e c1-1g c1-b c1-7l c1-c c1-2k c1-d c1-e c1-f c1-g">Sign up to hear from us about specials, sales, and events.</p><form aria-live="polite" data-ux="InputGroup" class="x-el x-el-form x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-26 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-3v c1-b c1-c c1-3h c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-19 c1-3w c1-t c1-b c1-c c1-aj c1-ak c1-d c1-e c1-f c1-g"> <div data-ux="InputFloatLabel" class="x-el x-el-div c1-1 c1-2 c1-s c1-8r c1-4 c1-b c1-c c1-al c1-am c1-d c1-e c1-f c1-g"><input type="text" role="textbox" aria-multiline="false" data-ux="InputFloatLabel" id="input53926" value="" data-typography="BodyAlpha" class="x-el x-el-input c1-1 c1-2 c1-8r c1-8s c1-4 c1-8t c1-8u c1-2g c1-8v c1-8w c1-28 c1-8x c1-8y c1-5a c1-2c c1-b c1-7l c1-c c1-2k c1-8z c1-90 c1-91 c1-92 c1-93 c1-94 c1-95 c1-96 c1-97 c1-98 c1-al c1-am c1-d c1-e c1-f c1-g"/><label data-ux="InputFloatLabelLabel" for="input53926" data-typography="BodyAlpha" class="x-el x-el-label c1-1 c1-2 c1-1i c1-1r c1-1s c1-2u c1-99 c1-9a c1-9b c1-9c c1-b c1-7l c1-c c1-2k c1-d c1-e c1-f c1-g">Email</label></div> </div><button data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" type="submit" data-tccl="ux2.gem-subscribe.submit_form.click,click" data-aid="SUBSCRIBE_SUBMIT_BUTTON_REND" data-typography="ButtonAlpha" class="x-el x-el-button c1-53 c1-4c c1-54 c1-4 c1-3m c1-3l c1-1u c1-55 c1-56 c1-1b c1-1f c1-1g c1-1q c1-1s c1-1r c1-s c1-z c1-57 c1-58 c1-27 c1-28 c1-59 c1-5a c1-5b c1-5c c1-b c1-4t c1-5d c1-5e c1-8a c1-5g c1-an c1-ao c1-aj c1-ak c1-ap c1-5h c1-5i c1-5j c1-5k c1-5l">Sign up</button></div></form></div></div></span></div></div></section>  </div></div></div><div id="e1fac620-4e9c-4d24-a345-f356cbd40c66" class="widget widget-footer widget-footer-footer-3"><div data-ux="Widget" role="contentinfo" id="e1fac620-4e9c-4d24-a345-f356cbd40c66" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-3 c1-16 c1-17 c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g"><div data-ux="Divider" class="x-el x-el-div c1-1 c1-2 c1-3 c1-1c c1-38 c1-14 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><hr aria-hidden="true" role="separator" data-ux="DividerHR" class="x-el x-el-hr c1-1 c1-2 c1-aq c1-2g c1-2c c1-25 c1-26 c1-4 c1-b c1-c c1-d c1-e c1-f c1-g"/></div></div><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-10 c1-d c1-11 c1-e c1-12 c1-f c1-13 c1-g"><div data-ux="Layout" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Grid" class="x-el x-el-div c1-1 c1-2 c1-19 c1-5u c1-5v c1-4y c1-25 c1-3l c1-26 c1-3m c1-1b c1-1g c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-ar c1-63 c1-64 c1-z c1-3b c1-3c c1-3d c1-3e c1-b c1-c c1-d c1-as c1-at c1-e c1-f c1-g"><div data-ux="FooterDetails" data-aid="FOOTER_COPYRIGHT_RENDERED" data-typography="DetailsGamma" class="x-el c1-au c1-4c c1-1r c1-1s c1-4l c1-25 c1-26 c1-b c1-9m c1-9n c1-2k c1-9o c1-av c1-9p c1-9q c1-9r x-rt"><p style="margin:0"><span>Copyright © 2024 Cash App Transfer - All Rights Reserved.</span></p></div></div><div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-5u c1-ar c1-63 c1-64 c1-z c1-3b c1-3c c1-3d c1-3e c1-b c1-c c1-d c1-as c1-at c1-e c1-f c1-g"><p data-ux="FooterDetails" data-aid="FOOTER_POWERED_BY_RENDERED" data-typography="DetailsGamma" class="x-el x-el-p c1-au c1-4c c1-1r c1-1s c1-4l c1-aw c1-26 c1-b c1-9m c1-9n c1-2k c1-9o c1-ax c1-ai c1-9p c1-9q c1-9r"><span>Powered by <a rel="nofollow noopener" role="link" aria-haspopup="true" data-ux="Link" target="_blank" data-aid="FOOTER_POWERED_BY_RENDERED_LINK" href="https://www.godaddy.com/websites/website-builder?isc=pwugc&amp;utm_source=wsb&amp;utm_medium=applications&amp;utm_campaign=en-in_corp_applications_base" data-typography="LinkAlpha" class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-aw c1-b c1-5o c1-9n c1-20 c1-8k c1-8l c1-9o c1-ax c1-ai c1-9p c1-9q c1-9r" data-tccl="ux2.FOOTER.footer3.Layout.Default.Link.Default.53927.click,click">GoDaddy</a></span></p></div></div></div></div></section>  </div></div></div><div id="0eeabb2a-8f72-45d9-8607-e18c3b907344" class="widget widget-popup widget-popup-popup-1"></div><div id="80cb37df-e97c-45ce-add8-0bfa8f273aa6" class="widget widget-cookie-banner widget-cookie-banner-cookie-1"></div><div id="92661345-556c-40f0-b0b4-3a381e9bd84b" class="widget widget-messaging widget-messaging-messaging-1"><div data-ux="Element" id="bs-6" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-ay c1-az c1-b0 c1-b1 c1-b2 c1-b3 c1-b c1-c c1-d c1-b4 c1-e c1-f c1-g"><div data-ux="Block" data-aid="MESSAGING_FAB" data-edit-interactive="true" data-traffic2="pandc.vnext.editor_preview.messaging_fab_open.click" data-tccl="ux2.messaging.fab.open,click" class="x-el x-el-div c1-1 c1-2 c1-19 c1-1b c1-1f c1-1u c1-4 c1-3n c1-b5 c1-b6 c1-b7 c1-b8 c1-b c1-c c1-d c1-e c1-f c1-g"><svg viewBox="0 0 24 24" fill="currentColor" width="44" height="44" data-ux="Icon" class="x-el x-el-svg c1-1 c1-2 c1-b9 c1-1i c1-3p c1-b c1-c c1-d c1-e c1-f c1-g"><g fill="currentColor"><rect x="4" y="6" width="16" height="10.222" rx="1.129"></rect><path d="M8.977 18.578l.2-2.722a.564.564 0 01.564-.523h3.61c.548 0 .774.705.327 1.024l-3.81 2.721a.564.564 0 01-.89-.5z"></path></g></svg></div></div></div></div></div></div></div>
+<script src="//img1.wsimg.com/blobby/go/96f35619-41f9-485a-b2f1-4d37abb637b5/gpub/3265f4625f8d5892/script.js" crossorigin></script>
+<script src="//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.43.14.js" crossorigin></script>
+<script src="//img1.wsimg.com/blobby/go/96f35619-41f9-485a-b2f1-4d37abb637b5/gpub/93b597cd0083158b/script.js" crossorigin></script></body></html>
